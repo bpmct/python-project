@@ -5,6 +5,7 @@ metadata:
 spec:
   type: other
   lifecycle: unknown
+  group: guests
   coder:
     templateName: "devcontainers"
     mode: "auto"
